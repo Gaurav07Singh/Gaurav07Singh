@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurav07singh" alt="gaurav07singh" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/gaurav_0_1" target="blank"><img src="https://img.shields.io/twitter/follow/gaurav_0_1?logo=twitter&style=for-the-badge" alt="gaurav_0_1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Gaurav_1_0" target="blank"><img src="https://img.shields.io/twitter/follow/Gaurav_1_0?logo=twitter&style=for-the-badge" alt="Gaurav_1_0" /></a> </p>
 
 - 📫 How to reach me **gks858687@gmail.com**
 
