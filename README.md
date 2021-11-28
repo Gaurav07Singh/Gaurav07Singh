@@ -1,4 +1,4 @@
-![github_banner](https://user-images.githubusercontent.com/83450530/143735006-b8a3b460-bc02-47a1-8e46-52318ff7e9c2.jpg)
+![git_banner](https://user-images.githubusercontent.com/83450530/143735295-9a1149d6-90da-4d16-964b-48a83e824c6b.jpeg)
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
