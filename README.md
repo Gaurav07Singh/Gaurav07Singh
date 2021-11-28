@@ -1,9 +1,6 @@
-![git_banner](https://user-images.githubusercontent.com/83450530/143735295-9a1149d6-90da-4d16-964b-48a83e824c6b.jpeg)
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
-<h3 align="center">A passionate developer from India.</h3>
-
+<h3 align="center">A passionate developer from India , who loves to code and learn new languages and frameworks.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav07singh&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav07singh" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurav07singh" alt="gaurav07singh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/Gaurav_1_0" target="blank"><img src="https://img.shields.io/twitter/follow/Gaurav_1_0?logo=twitter&style=for-the-badge" alt="Gaurav_1_0" /></a> </p>
