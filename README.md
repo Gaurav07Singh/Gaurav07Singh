@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
-<h3 align="center">A passionate developer from India , who loves to code and learn new languages and frameworks.</h3>
+<h3 align="center">A self-taught developer from India , who loves to code and learn new languages and frameworks.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav07singh&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav07singh" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurav07singh" alt="gaurav07singh" /></a> </p>
 
