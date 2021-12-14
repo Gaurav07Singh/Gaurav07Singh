@@ -1,4 +1,5 @@
-<img src="https://github.com/Ayush7614/Ayush7614/raw/main/Hello.gif">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="39px">
+<img src="https://github.com/Ayush7614/Ayush7614/raw/main/Hello.gif">  
 <h1 align="center"><i>Gaurav Singh , </i></h1>
 <!--## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Gaurav Singh!] -->
 
