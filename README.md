@@ -35,7 +35,8 @@
  
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gaurav07Singh&show_icons=true&locale=en" alt="Gaurav07Singh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gaurav07Singh&show_icons=true&theme=cobalt" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav07Singh&" alt="Gaurav07Singh" /> </p>
 
