@@ -1,6 +1,6 @@
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="39px">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="39px">-->
 <img src="https://github.com/Ayush7614/Ayush7614/raw/main/Hello.gif">  
-<h1 align="center"><i>Gaurav Singh , </i></h1>
+<h1 align="center"><i>Hi, I'm <br> Gaurav Singh </i></h1>
 <!--## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Gaurav Singh!] -->
 
 <h3 align="center">A self-taught developer from India , who loves to code .</h3>
@@ -10,6 +10,7 @@
 <p align="left"> <a href="https://twitter.com/Gaurav_1_0" target="blank"><img src="https://img.shields.io/twitter/follow/Gaurav_1_0?logo=twitter&style=for-the-badge" alt="Gaurav_1_0" /></a> </p>
 
 - 📫 How to reach me **gks858687@gmail.com**
+<img align="right" alt="Coding Image" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
