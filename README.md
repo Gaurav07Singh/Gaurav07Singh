@@ -34,12 +34,11 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
  </p>                                                                                                                                                            -->
  
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav07Singh&langs_count=8)](https://github.com/Gaurav07Singh/github-readme-stats"/></p>
  
+ 
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav07Singh&langs_count=8&theme=onedark")](https://github.com/Gaurav07Singh/github-readme-stats"/></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gaurav07Singh&show_icons=true&theme=onedark" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gaurav07Singh&show_icons=true&theme=cobalt" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav07Singh&" alt="Gaurav07Singh" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav07Singh&theme=onedark" alt="Gaurav07Singh" /> </p>
 
