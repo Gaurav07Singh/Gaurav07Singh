@@ -25,6 +25,9 @@
 <a href="https://linkedin.com/in/gaurav-singh-8b7b28199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-singh-8b7b28199" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/garv-010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="garv-010" height="30" width="40" /></a>
 </p>
+
+
+
 <p align="left">
 </p>
 
@@ -47,4 +50,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gaurav07Singh&show_icons=true&theme=react" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav07Singh&theme=react" alt="Gaurav07Singh" /> </p> 
- 
+          <div align="center">
+        <img src="https://activity-graph.herokuapp.com/graph?username=Gaurav07Singh&theme=react-dark&count_private=true">
+          </div>
+
