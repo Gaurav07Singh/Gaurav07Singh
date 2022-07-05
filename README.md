@@ -10,8 +10,8 @@
 <!--## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Gaurav Singh!] -->
 
 <!--<h3 align="center">A self-taught developer from India , who loves to code🖤 .</h3>-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav07singh&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav07singh" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurav07singh" alt="gaurav07singh" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gaurav07Singh&label=Profile%20views&color=0e75b6&style=flat" alt="Gaurav07Singh" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gaurav07Singh" alt="Gaurav07Singh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/Gaurav_1_0" target="blank"><img src="https://img.shields.io/twitter/follow/Gaurav_1_0?logo=twitter&style=for-the-badge" alt="Gaurav_1_0" /></a> </p>
 
