@@ -1,6 +1,6 @@
 <!--<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="39px">-->
 <!--<img src="https://github.com/Ayush7614/Ayush7614/raw/main/Hello.gif">  -->
-<img src="https://raw.githubusercontent.com/Gaurav07Singh/Gaurav07Singh/main/1.png" height="250px">
+<img src="https://raw.githubusercontent.com/Gaurav07Singh/Gaurav07Singh/main/Simple%20Technology%20LinkedIn%20Banner.png" height="250px">
 <div align=center>
          <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gaurav07Singh&label=Profile%20views&color=0e75b6&style=flat" alt="Gaurav07Singh" /> </p>-->
         <img src="https://readme-typing-svg.herokuapp.com?color=0DADBDFA&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Gaurav+Singh.+%F0%9F%91%8B;Passionate+Developer;Web+Development+Enthusiast." alt="Headline" />
