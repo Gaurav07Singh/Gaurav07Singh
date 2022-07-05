@@ -1,10 +1,15 @@
 <!--<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="39px">-->
 <!--<img src="https://github.com/Ayush7614/Ayush7614/raw/main/Hello.gif">  -->
 <img src="https://raw.githubusercontent.com/Gaurav07Singh/Gaurav07Singh/main/1.png" height="250px">
-<h1 align="center"><i>Hi, I'm <br> Gaurav Singh </i></h1>
+<div align=center>
+         <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gaurav07Singh&label=Profile%20views&color=0e75b6&style=flat" alt="Gaurav07Singh" /> </p>-->
+        <img src="https://readme-typing-svg.herokuapp.com?color=0DADBDFA&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Gaurav+Singh.+%F0%9F%91%8B;Passionate+Developer;Web+Development+Enthusiast." alt="Headline" />
+    </div>
+
+<!--<h1 align="center"><i>Hi, I'm <br> Gaurav Singh </i></h1>-->
 <!--## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Gaurav Singh!] -->
 
-<h3 align="center">A self-taught developer from India , who loves to code🖤 .</h3>
+<!--<h3 align="center">A self-taught developer from India , who loves to code🖤 .</h3>-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav07singh&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav07singh" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurav07singh" alt="gaurav07singh" /></a> </p>
 
