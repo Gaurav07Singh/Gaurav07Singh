@@ -3,8 +3,10 @@
 <img src="https://raw.githubusercontent.com/Gaurav07Singh/Gaurav07Singh/main/Simple%20Technology%20LinkedIn%20Banner.png" height="250px">
 <div align=center>
          <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gaurav07Singh&label=Profile%20views&color=0e75b6&style=flat" alt="Gaurav07Singh" /> </p>-->
+           <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>  </picture> 
         <img src="https://readme-typing-svg.herokuapp.com?color=0DADBDFA&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Gaurav+Singh.+%F0%9F%91%8B;Passionate+Developer;Web+Development+Enthusiast." alt="Headline" />
     </div>
+    <br>
 
 <!--<h1 align="center"><i>Hi, I'm <br> Gaurav Singh </i></h1>-->
 <!--## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Gaurav Singh!] -->
@@ -16,7 +18,7 @@
 <p align="left"> <a href="https://twitter.com/Gaurav_1_0" target="blank"><img src="https://img.shields.io/twitter/follow/Gaurav_1_0?logo=twitter&style=for-the-badge" alt="Gaurav_1_0" /></a> </p>
 
 <h3 align="left">⚡How to reach me</h3>
-📫 **gks858687@gmail.com**
+<h5>&nbspgks858687@gmail.com</h5>
 <img align="right" alt="Coding Image" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <h3 align="left">⚡Connect with me:</h3>
