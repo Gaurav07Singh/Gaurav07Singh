@@ -18,7 +18,7 @@
 <p align="left"> <a href="https://twitter.com/Gaurav_1_0" target="blank"><img src="https://img.shields.io/twitter/follow/Gaurav_1_0?logo=twitter&style=for-the-badge" alt="Gaurav_1_0" /></a> </p>
 
 <h3 align="left">⚡How to reach me</h3>
-<h5>&nbspgks858687@gmail.com</h5>
+<h4>&nbspgks858687@gmail.com</h4>
 <img align="right" alt="Coding Image" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <h3 align="left">⚡Connect with me:</h3>
