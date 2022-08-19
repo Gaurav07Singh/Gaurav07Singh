@@ -4,7 +4,7 @@
 <div align=center>
          <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gaurav07Singh&label=Profile%20views&color=0e75b6&style=flat" alt="Gaurav07Singh" /> </p>-->
            <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>  </picture> 
-        <img src="https://readme-typing-svg.herokuapp.com?color=0DADBDFA&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Gaurav+Singh.+%F0%9F%91%8B;Passionate+Developer;Web+Development+Enthusiast." alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=0DADBDFA&size=32&center=true&vCenter=true&width=600&height=50&lines=Hey,+there+I'm+Gaurav+Singh.+%F0%9F%91%8B;Passionate+Developer;Web+Development+Enthusiast." alt="Headline" />
     </div>
     <br>
 
