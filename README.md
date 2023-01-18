@@ -1,6 +1,6 @@
 <!--<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="39px">-->
 <!--<img src="https://github.com/Ayush7614/Ayush7614/raw/main/Hello.gif">  -->
-<img src="https://raw.githubusercontent.com/Gaurav07Singh/Gaurav07Singh/main/Simple%20Technology%20LinkedIn%20Banner%20(1).png" height="250px">
+
 <div align=center>
          <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gaurav07Singh&label=Profile%20views&color=0e75b6&style=flat" alt="Gaurav07Singh" /> </p>-->
            <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>  </picture> 
